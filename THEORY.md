@@ -1,0 +1,2 @@
+## Static methods in interfaces.
+
